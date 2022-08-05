@@ -1,7 +1,7 @@
 # Flight Management System
 
 ## Introduction
-This document lays out a project plan for the development of “Flight-Management-System” an open source repository by HASAN KOSER
+This document lays out a project plan for the development of “Flight-Management-System”
 
 ## Overview
 Flight Management is the biggest requirement in the world. With Technology improving and countries getting developed flight management is as important as the people.
